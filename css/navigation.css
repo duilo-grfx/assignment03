@@ -1,0 +1,38 @@
+nav,
+.menu li,
+ul {
+  list-style: none;
+  display: inline-block;
+  margin-left: 60px;
+}
+nav ul li {
+  margin-left: 60px;
+}
+nav {
+  flex: 1;
+  text-align: right;
+}
+
+.menu {
+  margin-left: 60px;
+}
+
+.menu a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.menu a:hover {
+  color: #357fff;
+
+}
+
+.menu a.is-current {
+  color: #535eff;
+}
+.menu a li {
+}
+
+
