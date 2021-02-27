@@ -59,6 +59,9 @@ footer {
   color: #ffffff;
   border: 1px solid rgb(158, 148, 0);
   font-style: italic;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .box {
@@ -143,11 +146,7 @@ aside {
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 30px;
 }
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
+
 .shrink {
   width: 150px;
 }
