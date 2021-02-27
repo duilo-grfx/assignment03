@@ -1,4 +1,4 @@
-# Assignment #3: City Teams
+# Assignment #3: City Teams/Collaboration
 
 This assignment we divided the roles as follows:
 Technician, Visual Designer, and the Information Architect
