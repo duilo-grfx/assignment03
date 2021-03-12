@@ -26,13 +26,9 @@ nav {
 
 .menu a:hover {
   color: #357fff;
-
 }
 
 .menu a.is-current {
   color: #535eff;
 }
-.menu a li {
-}
-
 
